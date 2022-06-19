@@ -6,7 +6,6 @@
   display: grid;
   grid-area: 3;
   grid-template-columns: 3fr 1fr;
-    /* font-family: "https://fonts.google.com/specimen/Barlow+Semi+Condensed"; */
   font-size: 13px;
   padding: 70px;
 }
